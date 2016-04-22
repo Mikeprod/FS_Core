@@ -40,6 +40,7 @@ Network.lua
 Console.lua
 Map.lua
 
+Geofence.lua
 Roster.lua
 Arrow.lua
 BigWigs.lua
